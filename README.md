@@ -97,13 +97,12 @@ Use the same command, but instead of **python** try **py**. A third option is to
 
 The following Python libraries are **absolutely necessary** and we recommend installing them through **pip**:
 
-```markdown
-- [Pandas](https://pypi.org/project/pandas/)
-- [Pillow](https://pypi.org/project/Pillow/)
-- [Psutil](https://pypi.org/project/psutil/)
-- [Seaborn](https://pypi.org/project/seaborn/)
-- [Matplotlib](https://pypi.org/project/matplotlib/)
-```
+> [Pandas](https://pypi.org/project/pandas/)
+> [Pillow](https://pypi.org/project/Pillow/)
+> [Psutil](https://pypi.org/project/psutil/)
+> [Seaborn](https://pypi.org/project/seaborn/)
+> [Matplotlib](https://pypi.org/project/matplotlib/)
+
 
 Python 3.4 and later include pip by default. If it is your case enter to the terminal or the command prompt and type:
 
