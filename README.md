@@ -128,9 +128,7 @@ python -m pip install matplotlib
 
 Before downloading the files make sure you meet the essential [prerequisites](#Prerequisites), i.e. **Python**, **BLAST+** and **Magic-BLAST**. 
 
-You can obtain VirusMAPPER in its compressed version at the following link:
-
-[GET IT HERE](https://drive.google.com/drive/folders/1NBjtZpNYpZfPIJHLkxxLK43vpdDl5YPu?usp=sharing). It contains the main script, the databases and two test files.
+You can obtain VirusMAPPER at the following [link](https://drive.google.com/drive/folders/1NBjtZpNYpZfPIJHLkxxLK43vpdDl5YPu?usp=sharing).
 
 Once the download is complete, locate the file in your preferred folder and unzip it; when you do this you will find the following structure:
 
