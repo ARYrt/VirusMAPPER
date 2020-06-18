@@ -107,19 +107,19 @@ The following Python libraries are **absolutely necessary** and we recommend ins
 Python 3.4 and later include pip by default. If it is your case enter to the terminal or the command prompt and type:
 
 ```sh
-pip install pandas
+python -m pip install pandas
 ```
 ```sh
-pip install Pillow
+python -m pip install Pillow
 ```
 ```sh
-pip install psutil
+python -m pip install psutil
 ```
 ```sh
-pip install seaborn
+python -m pip install seaborn
 ```
 ```sh
-pip install matplotlib
+python -m pip install matplotlib
 ```
 
 ----
@@ -130,7 +130,7 @@ Before downloading the files make sure you meet the essential [prerequisites](#P
 
 You can obtain VirusMAPPER in its compressed version at the following link:
 
-[GET IT HERE c:](https://drive.google.com/drive/folders/1NBjtZpNYpZfPIJHLkxxLK43vpdDl5YPu?usp=sharing). It contains the main script, the databases and two test files.
+[GET IT HERE](https://drive.google.com/drive/folders/1NBjtZpNYpZfPIJHLkxxLK43vpdDl5YPu?usp=sharing). It contains the main script, the databases and two test files.
 
 Once the download is complete, locate the file in your preferred folder and unzip it; when you do this you will find the following structure:
 
