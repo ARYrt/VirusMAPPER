@@ -152,7 +152,7 @@ Now you can continue with the next section.
 
 ### Tutorial
 
-Open the terminal or the command prompt and go to the folder where the downloaded files are located.
+Open the terminal or the command prompt **as administrator** and go to the folder where the downloaded files are located.
 
 <ins>Help:</ins> If you want to know how to move between folders in the terminal or command prompt, check the following [link](https://biotecnologiamicrobianaunalmed.github.io/terminal-basics/).
 
