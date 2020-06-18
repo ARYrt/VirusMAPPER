@@ -99,7 +99,6 @@ The following Python libraries are **absolutely necessary** and we recommend ins
 
 > [Pandas](https://pypi.org/project/pandas/)
 > [Pillow](https://pypi.org/project/Pillow/)
-> [Psutil](https://pypi.org/project/psutil/)
 > [Seaborn](https://pypi.org/project/seaborn/)
 > [Matplotlib](https://pypi.org/project/matplotlib/)
 
@@ -111,9 +110,6 @@ python -m pip install pandas
 ```
 ```sh
 python -m pip install Pillow
-```
-```sh
-python -m pip install psutil
 ```
 ```sh
 python -m pip install seaborn
