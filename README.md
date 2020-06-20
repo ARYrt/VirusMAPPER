@@ -1,6 +1,6 @@
 ## VirusMAPPER
 
-![Running](/images/VirusMAPPER.gif)
+<!--![Running](/images/VirusMAPPER.gif)-->
 
 ### Supported files
 
