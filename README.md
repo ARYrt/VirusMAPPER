@@ -28,7 +28,9 @@ The test data (*testfile_1.fastq* - *testfile_2.fastq*) was tested on the follow
 
 | Operating system | Processor| RAM | Total execution time (min) |  
 | :---: | :---: | :---: | :---: |
-| Windows 7 64-bit | Intel Core i5-2300 CPU @ 2,8 GHz | 8 GB | 7,05 |
+| Windows 7 64-bit | Intel Core i5-2300 CPU @ 2,80 GHz | 8 GB | 9,71 |
+| Windows 10 64-bit | Intel Core i5-6200U CPU @ 2,40 GHz | 4 GB | 18,77 |
+| Windows 10 64-bit | Intel Core i5-8265U CPU @ 1,80 GHz | 8 GB | 14,24 |
 
 ----
 
@@ -158,6 +160,8 @@ You can access the program by writing the following line:
 python VirusMAPPER.py
 ```
 
+Wait a moment while the user interface loads.
+
 If you get an **error** like:
 
 ```markdown
@@ -168,7 +172,7 @@ Use the same command, but instead of **python** try **py**. A third option is to
 
 ----
 
-**Issues**
+### Issues
 
 - **Anaconda user's**:
 
@@ -176,12 +180,12 @@ Use the same command, but instead of **python** try **py**. A third option is to
 
 You may have python installed through Anaconda, in this case you must open the Anaconda prompt.
 
-- **During handling of the above exception, another exception occurred**
+### References
 
-> psutil.NoSuchProccess: psutil.NoSuchProccess process no longer exists
+Boratyn GM, Thierry-Mieg J, Thierry-Mieg D, Busby B, Madden T.L. (2019) "Magic-BLAST, an accurate RNA-seq aligner for long and short reads." BMC Bioinformatics. 2019 Jul 25;20(1):405.
 
-Do not worry!. The monitored process became momentarily invisible.
+Zhang Z., Schwartz S., Wagner L., & Miller W. (2000), "A greedy algorithm for aligning DNA sequences" J Comput Biol 2000; 7(1-2):203-14.
 
-### Support or Contact
+### Support
 
 Having troubles? Please contact us.
