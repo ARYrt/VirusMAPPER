@@ -2,6 +2,8 @@
 <!--Hi-->
 ![Running](/images/VirusMAPPER.gif)
 
+Degeneration of planting material due to the accumulation of viral pathogens is a problem that affects potato crops in Colombia. In order to offer alternatives for the identification of these infectious agents, an analysis platform was developed in Python, which allows to process next generation sequence data through two alignment tools, Magic-BLAST and BLAST, also including a decision algorithm that filters the results and builds a consensus with the partial and/or complete genomes of the viral pathogens that are listed as a possible health risk according to the country's authorities.
+
 ### Supported files
 
 This program support single or paired-end reads from Illumina sequencing technology in FASTQ format (or fastq.gz):
